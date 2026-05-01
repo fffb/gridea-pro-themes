@@ -4,6 +4,8 @@
   "author": "fffb",
   "description":"iNotes 主题改版",
   "repository": "https://github.com/Gridea-Pro/gridea-pro-themes",
+  "engine": "go",
+  "templateEngine":"go", 
   "customConfig": [
     {
       "name": "contentMaxWidth",
